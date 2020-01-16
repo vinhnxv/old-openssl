@@ -1,4 +1,4 @@
-# old-openssl
+# Old OpenSSL
 
 Missing the OpenSSL lib? 
 If you read content here https://github.com/pyenv/pyenv/wiki/common-build-problems but you can't solve your problem.
